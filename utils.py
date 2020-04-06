@@ -3,7 +3,7 @@ import functools
 import itertools
 
 def fibonacci(n):
-    '''generates n fibonacci numbers
+    '''generates nth fibonacci numbers
     '''
     if n < 2:
         return n
